@@ -83,6 +83,7 @@ html {
 }
 
 #i2kcx {
+  z-index: 9999;
   width: 24px;
   height: 24px;
   border-top-left-radius: 4px;
@@ -119,4 +120,5 @@ html {
   #izsl {
     left: 1%;
   }
+
 }
